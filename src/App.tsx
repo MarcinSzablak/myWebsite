@@ -1,10 +1,7 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-
 function App() {
   return (
     <>
-      <h1 className="text-3xl font-bold underline">
+      <h1 className='text-center text-green-500 font-bold'>
         Hello world!
       </h1>
     </>
